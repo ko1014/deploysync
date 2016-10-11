@@ -1,0 +1,365 @@
+2016-02-03T12:27:13+00:00	False Deploy
+2016-02-03T12:30:19+00:00	False Deploy
+2016-02-03T12:37:09+00:00	False Deploy
+2016-02-03T12:39:37+00:00	False Deploy
+2016-02-03T12:47:41+00:00	False Deploy
+2016-02-03T12:51:30+00:00	False Deploy
+2016-02-03T12:58:06+00:00	False Deploy
+2016-02-03T13:00:46+00:00	False Deploy
+2016-02-03T13:08:40+00:00staging_deploy.sh	Success Deploy	staging_deploy.sh
+2016-02-03T13:15:56+00:00	False Deploy
+2016-02-03T13:57:54+00:00	False Deploy
+False Deploy
+Success Deploy	CONTRIBUTING.md
+README.md
+app
+build.properties
+build.xml
+composer.json
+index.php
+lib
+php_errors.log
+robots.txt
+
+Success Deploy	admin
+bitbucket-sync
+deploy.log
+deploy.php
+index.html
+php_errors.log
+staging_deploy.sh
+
+Success Deploy	1
+False Deploy
+--------------fwrite---------		False Deploy
+--------------fwrite---------
+	systemSuccess
+False Deploy
+--------------fwrite---------
+	systemSuccess
+False Deploy
+--------------fwrite---------
+	systemSuccess
+False Deploy
+--------------fwrite---------
+Array
+1
+systemSuccess
+False Deploy
+--------------fwrite---------
+
+1
+systemSuccess
+False Deploy
+--------------fwrite---------
+
+systemSuccess
+False Deploy
+--------------fwrite---------
+
+systemSuccess
+False Deploy
+--------------fwrite---------
+
+systemSuccess
+False Deploy
+--------------fwrite---------
+
+systemSuccess
+False Deploy
+--------------fwrite---------
+Array
+
+systemSuccess
+Success Deploy	1	sudo: sorry, you must have a tty to run sudo
+--------------fwrite---------
+Array
+
+systemSuccess
+Success Deploy	1	sudo: sorry, you must have a tty to run sudo
+--------------fwrite---------
+Array
+
+
+--------------fwrite---------
+Array
+
+
+--------------fwrite---------
+Array
+
+fatal: Not a git repository (or any of the parent directories): .git
+
+--------------fwrite---------
+/var/www/stg-mio.com/htdocs/admin<br/>Array
+
+fatal: The remote end hung up unexpectedly
+systemSuccess
+
+--------------fwrite---------
+/var/www/stg-mio.com/htdocs/admin
+Array
+
+fatal: The remote end hung up unexpectedly
+systemSuccess
+shellSuccess
+--------------fwrite---------
+/var/www/stg-mio.com/htdocs/admin
+shelloutputArray
+shelldumpoutput
+shellfatal: The remote end hung up unexpectedly
+systemSuccess
+shellSuccess
+--------------fwrite---------
+/var/www/stg-mio.com/htdocs/admin
+shelloutputArray
+shelldumpoutput
+shellfatal: The remote end hung up unexpectedly
+systemSuccess
+shellSuccess
+--------------fwrite---------
+/var/www/stg-mio.com/htdocs/admin
+shelloutputArray
+shelldumpoutput
+shell
+systemSuccess
+shellFalse
+--------------fwrite---------
+/var/www/stg-mio.com/htdocs/admin
+shelloutputArray
+shelldumpoutput
+shell
+systemSuccess
+shellFalse
+--------------fwrite---------
+/var/www/stg-mio.com/htdocs/admin
+shelloutputArray
+shelldumpoutput
+shell
+systemSuccess
+shellFalse
+--------------fwrite---------
+/var/www/stg-mio.com/htdocs/admin
+shelloutputArray
+shelldumpoutput
+shellsudo: sorry, you must have a tty to run sudo
+systemSuccess
+shellSuccess
+--------------fwrite---------
+/var/www/stg-mio.com/htdocs/admin
+shelloutputArray
+shelldumpoutput
+shellsudo: sorry, you must have a tty to run sudo
+systemSuccess
+userSuccess
+shellSuccess
+--------------fwrite---------
+/var/www/stg-mio.com/htdocs/admin
+useroutputArray
+shelloutputArray
+shelldumpoutput
+shellsudo: sorry, you must have a tty to run sudo
+systemSuccess
+userSuccess
+shellSuccess
+--------------fwrite---------
+/var/www/stg-mio.com/htdocs/admin
+useroutputArray
+shelloutputArray
+shelldumpoutput
+shell
+systemSuccess
+userSuccess
+shellFalse
+--------------fwrite---------
+/var/www/stg-mio.com/htdocs/admin
+useroutputArray
+shelloutputArray
+shelldumpoutput
+shellsudo: no tty present and no askpass program specified
+systemSuccess
+userSuccess
+shellSuccess
+--------------fwrite---------
+/var/www/stg-mio.com/htdocs/admin
+useroutputArray
+shelloutputArray
+shelldumpoutput
+shellsudo: sorry, you must have a tty to run sudo
+systemSuccess
+userSuccess
+shellSuccess
+--------------fwrite---------
+/var/www/stg-mio.com/htdocs/admin
+useroutput
+shelloutputArray
+shelldumpoutput
+shell
+systemSuccess
+userFalse
+shellFalse
+--------------fwrite---------
+/var/www/stg-mio.com/htdocs/admin
+shelloutputArray
+shelldumpoutput
+shell
+systemSuccess
+shellFalse
+--------------fwrite---------
+/var/www/stg-mio.com/htdocs/admin
+shelloutputArray
+shelldumpoutput
+shellfatal: The remote end hung up unexpectedly
+systemSuccess
+shellSuccess
+--------------fwrite---------
+/var/www/stg-mio.com/htdocs/admin
+shelloutputArray
+shelldumpoutput
+shellfatal: The remote end hung up unexpectedly
+systemSuccess
+shellSuccess
+--------------fwrite---------
+/var/www/stg-mio.com/htdocs/admin
+shelloutputArray
+shelldumpoutput
+shellfatal: The remote end hung up unexpectedly
+systemSuccess
+shellSuccess
+--------------fwrite---------
+/var/www/stg-mio.com/htdocs/admin
+shelloutputArray
+shelldumpoutput
+shellfatal: The remote end hung up unexpectedly
+systemSuccess
+shellSuccess
+--------------fwrite---------
+/var/www/stg-mio.com/htdocs/admin
+shelloutputArray
+shelldumpoutput
+shellfatal: The remote end hung up unexpectedly
+systemSuccess
+shellSuccess
+--------------fwrite---------
+/var/www/stg-mio.com/htdocs/admin
+shelloutputArray
+shelldumpoutput
+shellfatal: The remote end hung up unexpectedly
+systemSuccess
+shellSuccess
+--------------fwrite---------
+/var/www/stg-mio.com/htdocs/admin
+shelloutputArray
+shelldumpoutput
+shellfatal: The remote end hung up unexpectedly
+systemSuccess
+shellSuccess
+--------------fwrite---------
+/var/www/stg-mio.com/htdocs/admin
+shelloutputArray
+shelldumpoutput
+shellfatal: The remote end hung up unexpectedly
+systemSuccess
+shellSuccess
+--------------fwrite---------
+/var/www/stg-mio.com/htdocs/admin
+shelloutputArray
+shelldumpoutput
+shellfatal: The remote end hung up unexpectedly
+systemSuccess
+shellSuccess
+--------------fwrite---------
+/var/www/stg-mio.com/htdocs/admin
+shelloutputArray
+shelldumpoutput
+shell 4 files changed, 3 insertions(+), 7 deletions(-)
+systemSuccess
+shellSuccess
+--------------fwrite---------
+/var/www/stg-mio.com/htdocs/admin
+shelloutputArray
+shelldumpoutput
+shell 1 files changed, 0 insertions(+), 2 deletions(-)
+systemSuccess
+shellSuccess
+--------------fwrite---------
+/var/www/stg-mio.com/htdocs/admin
+shelloutputArray
+shelldumpoutput
+shellAlready up-to-date.
+systemSuccess
+shellSuccess
+--------------fwrite---------
+/var/www/stg-mio.com/htdocs/admin
+shelloutputArray
+shelldumpoutput
+shell 1 files changed, 1 insertions(+), 0 deletions(-)
+systemSuccess
+shellSuccess
+--------------deploy実行---------
+/var/www/stg-mio.com/htdocs/deploy
+shell 2 files changed, 2 insertions(+), 0 deletions(-)
+systemSuccess
+--------------deploy実行---------
+/var/www/stg-mio.com/htdocs/deploy
+shellAlready up-to-date.
+systemSuccess
+--------------deploy実行---------
+/var/www/stg-mio.com/htdocs/deploy
+shell 1 files changed, 1 insertions(+), 0 deletions(-)
+systemSuccess
+--------------deploy実行---------
+2016-02-05 23:57:52
+/var/www/stg-mio.com/htdocs/deploy
+shell: 1 files changed, 0 insertions(+), 4 deletions(-)
+systemSuccess
+--------------deploy実行---------
+2016-02-05 23:58:55
+/var/www/stg-mio.com/htdocs/deploy
+shell:Already up-to-date.
+systemSuccess
+--------------deploy実行---------
+2016-02-06 00:32:17
+/var/www/stg-mio.com/htdocs/deploy
+shell: 1 files changed, 1 insertions(+), 0 deletions(-)
+systemSuccess
+--------------deploy実行---------
+2016-02-06 00:34:06
+/var/www/stg-mio.com/htdocs/deploy
+shell: 1 files changed, 1 insertions(+), 0 deletions(-)
+systemSuccess
+--------------deploy実行---------
+2016-02-06 00:35:06
+/var/www/stg-mio.com/htdocs/deploy
+shell:Already up-to-date.
+systemSuccess
+--------------deploy実行---------
+2016-02-06 00:35:27
+/var/www/stg-mio.com/htdocs/deploy
+shell:Already up-to-date.
+systemSuccess
+--------------deploy実行---------
+2016-02-06 09:40:15
+/var/www/stg-mio.com/htdocs/deploy
+shell: 1 files changed, 0 insertions(+), 2 deletions(-)
+systemSuccess
+--------------deploy実行---------
+2016-02-06 09:41:16
+/var/www/stg-mio.com/htdocs/deploy
+shell:Already up-to-date.
+systemSuccess
+--------------deploy実行---------
+2016-02-06 09:50:31
+/var/www/stg-mio.com/htdocs/deploy
+shell:Already up-to-date.
+systemSuccess
+--------------deploy実行---------
+2016-02-06 10:01:54
+/var/www/stg-mio.com/htdocs/deploy
+shell: 1 files changed, 1 insertions(+), 0 deletions(-)
+systemSuccess
+--------------deploy実行---------
+2016-02-06 10:02:54
+/var/www/stg-mio.com/htdocs/deploy
+shell:Already up-to-date.
+systemSuccess

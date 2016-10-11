@@ -1,0 +1,64 @@
+[03-Feb-2016 12:27:13 UTC] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in /var/www/stg-mio.com/htdocs/deploy.php on line 8
+[03-Feb-2016 12:27:13 UTC] PHP Stack trace:
+[03-Feb-2016 12:27:13 UTC] PHP   1. {main}() /var/www/stg-mio.com/htdocs/deploy.php:0
+[03-Feb-2016 12:27:13 UTC] PHP   2. date() /var/www/stg-mio.com/htdocs/deploy.php:8
+[03-Feb-2016 12:30:19 UTC] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in /var/www/stg-mio.com/htdocs/deploy.php on line 8
+[03-Feb-2016 12:30:19 UTC] PHP Stack trace:
+[03-Feb-2016 12:30:19 UTC] PHP   1. {main}() /var/www/stg-mio.com/htdocs/deploy.php:0
+[03-Feb-2016 12:30:19 UTC] PHP   2. date() /var/www/stg-mio.com/htdocs/deploy.php:8
+[03-Feb-2016 12:37:09 UTC] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in /var/www/stg-mio.com/htdocs/deploy.php on line 8
+[03-Feb-2016 12:37:09 UTC] PHP Stack trace:
+[03-Feb-2016 12:37:09 UTC] PHP   1. {main}() /var/www/stg-mio.com/htdocs/deploy.php:0
+[03-Feb-2016 12:37:09 UTC] PHP   2. date() /var/www/stg-mio.com/htdocs/deploy.php:8
+[03-Feb-2016 12:39:37 UTC] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in /var/www/stg-mio.com/htdocs/deploy.php on line 8
+[03-Feb-2016 12:39:37 UTC] PHP Stack trace:
+[03-Feb-2016 12:39:37 UTC] PHP   1. {main}() /var/www/stg-mio.com/htdocs/deploy.php:0
+[03-Feb-2016 12:39:37 UTC] PHP   2. date() /var/www/stg-mio.com/htdocs/deploy.php:8
+[03-Feb-2016 12:47:41 UTC] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in /var/www/stg-mio.com/htdocs/deploy.php on line 8
+[03-Feb-2016 12:47:41 UTC] PHP Stack trace:
+[03-Feb-2016 12:47:41 UTC] PHP   1. {main}() /var/www/stg-mio.com/htdocs/deploy.php:0
+[03-Feb-2016 12:47:41 UTC] PHP   2. date() /var/www/stg-mio.com/htdocs/deploy.php:8
+[03-Feb-2016 12:51:30 UTC] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in /var/www/stg-mio.com/htdocs/deploy.php on line 8
+[03-Feb-2016 12:51:30 UTC] PHP Stack trace:
+[03-Feb-2016 12:51:30 UTC] PHP   1. {main}() /var/www/stg-mio.com/htdocs/deploy.php:0
+[03-Feb-2016 12:51:30 UTC] PHP   2. date() /var/www/stg-mio.com/htdocs/deploy.php:8
+[03-Feb-2016 12:58:06 UTC] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in /var/www/stg-mio.com/htdocs/deploy.php on line 8
+[03-Feb-2016 12:58:06 UTC] PHP Stack trace:
+[03-Feb-2016 12:58:06 UTC] PHP   1. {main}() /var/www/stg-mio.com/htdocs/deploy.php:0
+[03-Feb-2016 12:58:06 UTC] PHP   2. date() /var/www/stg-mio.com/htdocs/deploy.php:8
+[03-Feb-2016 13:00:46 UTC] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in /var/www/stg-mio.com/htdocs/deploy.php on line 8
+[03-Feb-2016 13:00:46 UTC] PHP Stack trace:
+[03-Feb-2016 13:00:46 UTC] PHP   1. {main}() /var/www/stg-mio.com/htdocs/deploy.php:0
+[03-Feb-2016 13:00:46 UTC] PHP   2. date() /var/www/stg-mio.com/htdocs/deploy.php:8
+[03-Feb-2016 13:08:40 UTC] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in /var/www/stg-mio.com/htdocs/deploy.php on line 9
+[03-Feb-2016 13:08:40 UTC] PHP Stack trace:
+[03-Feb-2016 13:08:40 UTC] PHP   1. {main}() /var/www/stg-mio.com/htdocs/deploy.php:0
+[03-Feb-2016 13:08:40 UTC] PHP   2. date() /var/www/stg-mio.com/htdocs/deploy.php:9
+[03-Feb-2016 13:15:56 UTC] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in /var/www/stg-mio.com/htdocs/deploy.php on line 9
+[03-Feb-2016 13:15:56 UTC] PHP Stack trace:
+[03-Feb-2016 13:15:56 UTC] PHP   1. {main}() /var/www/stg-mio.com/htdocs/deploy.php:0
+[03-Feb-2016 13:15:56 UTC] PHP   2. date() /var/www/stg-mio.com/htdocs/deploy.php:9
+[03-Feb-2016 13:57:54 UTC] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in /var/www/stg-mio.com/htdocs/deploy.php on line 10
+[03-Feb-2016 13:57:54 UTC] PHP Stack trace:
+[03-Feb-2016 13:57:54 UTC] PHP   1. {main}() /var/www/stg-mio.com/htdocs/deploy.php:0
+[03-Feb-2016 13:57:54 UTC] PHP   2. date() /var/www/stg-mio.com/htdocs/deploy.php:10
+[04-Feb-2016 12:47:38 UTC] PHP Notice:  Array to string conversion in /var/www/stg-mio.com/htdocs/deploy.php on line 14
+[04-Feb-2016 12:47:38 UTC] PHP Stack trace:
+[04-Feb-2016 12:47:38 UTC] PHP   1. {main}() /var/www/stg-mio.com/htdocs/deploy.php:0
+[04-Feb-2016 15:11:27 UTC] PHP Notice:  Array to string conversion in /var/www/stg-mio.com/htdocs/deploy.php on line 18
+[04-Feb-2016 15:11:27 UTC] PHP Stack trace:
+[04-Feb-2016 15:11:27 UTC] PHP   1. {main}() /var/www/stg-mio.com/htdocs/deploy.php:0
+[04-Feb-2016 15:13:11 UTC] PHP Notice:  Array to string conversion in /var/www/stg-mio.com/htdocs/deploy.php on line 18
+[04-Feb-2016 15:13:11 UTC] PHP Stack trace:
+[04-Feb-2016 15:13:11 UTC] PHP   1. {main}() /var/www/stg-mio.com/htdocs/deploy.php:0
+[05-Feb-2016 00:19:03 UTC] PHP Notice:  Array to string conversion in /var/www/stg-mio.com/htdocs/deploy.php on line 18
+[05-Feb-2016 00:19:03 UTC] PHP Stack trace:
+[05-Feb-2016 00:19:03 UTC] PHP   1. {main}() /var/www/stg-mio.com/htdocs/deploy.php:0
+[05-Feb-2016 00:26:20 UTC] PHP Notice:  Array to string conversion in /var/www/stg-mio.com/htdocs/deploy.php on line 19
+[05-Feb-2016 00:26:20 UTC] PHP Stack trace:
+[05-Feb-2016 00:26:20 UTC] PHP   1. {main}() /var/www/stg-mio.com/htdocs/deploy.php:0
+[05-Feb-2016 00:30:56 UTC] PHP Notice:  Array to string conversion in /var/www/stg-mio.com/htdocs/deploy.php on line 19
+[05-Feb-2016 00:30:56 UTC] PHP Stack trace:
+[05-Feb-2016 00:30:56 UTC] PHP   1. {main}() /var/www/stg-mio.com/htdocs/deploy.php:0
+[05-Feb-2016 15:30:06 UTC] PHP Parse error:  syntax error, unexpected '=' in /var/www/stg-mio.com/htdocs/deploy/deploy.php on line 20
+[05-Feb-2016 15:31:06 UTC] PHP Parse error:  syntax error, unexpected '=' in /var/www/stg-mio.com/htdocs/deploy/deploy.php on line 20
